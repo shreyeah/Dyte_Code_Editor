@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "//shreyeah.github.io/Dyte_Code_Editor/static/css/main.2b4161d0.chunk.css",
+    "main.js": "//shreyeah.github.io/Dyte_Code_Editor/static/js/main.b551b501.chunk.js",
+    "main.js.map": "//shreyeah.github.io/Dyte_Code_Editor/static/js/main.b551b501.chunk.js.map",
+    "runtime-main.js": "//shreyeah.github.io/Dyte_Code_Editor/static/js/runtime-main.66b07cd6.js",
+    "runtime-main.js.map": "//shreyeah.github.io/Dyte_Code_Editor/static/js/runtime-main.66b07cd6.js.map",
+    "static/css/2.8ab860fe.chunk.css": "//shreyeah.github.io/Dyte_Code_Editor/static/css/2.8ab860fe.chunk.css",
+    "static/js/2.7c1106eb.chunk.js": "//shreyeah.github.io/Dyte_Code_Editor/static/js/2.7c1106eb.chunk.js",
+    "static/js/2.7c1106eb.chunk.js.map": "//shreyeah.github.io/Dyte_Code_Editor/static/js/2.7c1106eb.chunk.js.map",
+    "static/js/3.a8c1c9c1.chunk.js": "//shreyeah.github.io/Dyte_Code_Editor/static/js/3.a8c1c9c1.chunk.js",
+    "static/js/3.a8c1c9c1.chunk.js.map": "//shreyeah.github.io/Dyte_Code_Editor/static/js/3.a8c1c9c1.chunk.js.map",
+    "index.html": "//shreyeah.github.io/Dyte_Code_Editor/index.html",
+    "precache-manifest.33929f0ed350e04f2da7922656f79182.js": "//shreyeah.github.io/Dyte_Code_Editor/precache-manifest.33929f0ed350e04f2da7922656f79182.js",
+    "service-worker.js": "//shreyeah.github.io/Dyte_Code_Editor/service-worker.js",
+    "static/css/2.8ab860fe.chunk.css.map": "//shreyeah.github.io/Dyte_Code_Editor/static/css/2.8ab860fe.chunk.css.map",
+    "static/css/main.2b4161d0.chunk.css.map": "//shreyeah.github.io/Dyte_Code_Editor/static/css/main.2b4161d0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66b07cd6.js",
+    "static/css/2.8ab860fe.chunk.css",
+    "static/js/2.7c1106eb.chunk.js",
+    "static/css/main.2b4161d0.chunk.css",
+    "static/js/main.b551b501.chunk.js"
+  ]
+}
