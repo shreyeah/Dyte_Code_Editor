@@ -1,6 +1,9 @@
 # Dyte Code Editor
 As part of the selection process of Dyte, the project is a real-time code editor and visualizer. The React Application uses Codemirror editor to write the HTML, CSS and JavaScript Codes and visualizes them by rendering the codes saved in local storage.
 
+## Link to the hosted github pages
+ https://shreyeah.github.io/Dyte_Code_Editor/
+
 ![Screenshot](dyte.PNG)
 
 ## The project is made by
