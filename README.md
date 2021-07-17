@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Dyte Code Editor
+As part of the selection process of Dyte, the project is a real-time code editor and visualizer. The React Application uses Codemirror editor to write the HTML, CSS and JavaScript Codes and visualizes them by rendering the codes saved in local storage.
+
+![Screenshot](dyte.png)
+
+## The project is made by
+Shreya Shrivastava
+
+www.linkedin.com/in/shreya-shrivastava28600
+
+https://shreyashrivastava.netlify.app/
+
+
+# The following steps can be employed to run the application on local machine
+
+## git clone 
+
+## npm install
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -23,9 +40,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
